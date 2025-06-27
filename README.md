@@ -103,7 +103,7 @@ Illustrates how data moves through the backend, including processes, data stores
 Flowchart detailing one key backend process (in this case we have User Registration).
 
 → Diagram stored in:  
-`flowcharts/flowchart.png`
+`flowcharts/data-flow-diagram.png`
 
 ---
 
