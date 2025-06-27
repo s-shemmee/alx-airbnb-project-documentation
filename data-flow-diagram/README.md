@@ -11,4 +11,4 @@ This diagram illustrates how data flows through the backend of the **Airbnb Clon
 
 ## Diagram
 
-![Data Flow](data-flow.png)
+![Data Flow diagram](data-flow-diagram.png)
