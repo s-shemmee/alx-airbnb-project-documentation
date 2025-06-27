@@ -17,4 +17,4 @@ This flowchart visualizes the steps for registering a new user.
 
 ## Diagram
 
-![User Registration Flowchart](user-registration.png)
+![User Registration Flowchart](data-flow-diagram.png)
