@@ -45,7 +45,7 @@ alx-airbnb-project-documentation/
 ├── data-flow-diagram/
 │ └── data-flow.png
 ├── flowcharts/
-│ └── flowchart.png
+│ └── data-flow-diagram.png
 └── requirements.md
 ```
 
